@@ -45,25 +45,21 @@ header a
 	padding-left: 10px;
 	margin-top: 15px;
 }
-#sido-meny
-{
-	height: 250px;
-	width: 100px;
-	background-color: rgb(211,211,211);
-	margin: 0;
-}
+
 .navi:hover
 {
 	background-color: rgb(243,243,243);
 
 }
-#main
+.main
 {
+	display: flex;
+	justify-content: center;
 	background-color: white;
-	background-image: url("images/bilder2.jpg");
+	
 	background-repeat: no-repeat;
 
-	height: 900px;
+	
 }
 
 
