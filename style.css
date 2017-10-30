@@ -38,3 +38,9 @@ footer > p{
   text-align: right;
   margin-right: 10px;
 }
+.biglogo
+{
+  display: flex;
+  justify-content: center;
+  
+}
