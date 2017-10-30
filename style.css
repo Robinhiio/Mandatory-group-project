@@ -15,11 +15,7 @@ header > ul > li > a{
 .logo{
   position: relative;
   top: 18.1px;
-}
-.logo > img{
-  width: 10%;
-  height: 10%;
-}
+  }
 .socialMedia{
 display: flex;
 flex-direction: row;
