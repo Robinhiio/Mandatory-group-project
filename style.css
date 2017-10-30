@@ -5,12 +5,18 @@ header > ul{
   list-style: none;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
 
 }
 header > ul > li > a{
   text-decoration: none;
-  color: #000000;
+  color: #000000;  
+}
+
+header > ul > li
+{
+  margin-right: 25px;
+  margin-left: 25px;
 }
 .logo{
   position: relative;
@@ -40,5 +46,5 @@ footer > p{
 {
   display: flex;
   justify-content: center;
-  
+
 }
